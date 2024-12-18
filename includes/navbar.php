@@ -18,38 +18,7 @@
 						</div>
 						<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
-								<li class="current "><a href="index.php">Home</a>
-									<ul>
-										<li><a href="index.php">Home Page 01</a></li>
-										
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">About Us</a>
-									<ul>
-										<li><a href="about.php">About Us</a></li>
-										<li><a href="testimonial.php">Testimonial</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Admission</a>
-									<ul>
-										<li><a href="services.php">Services</a></li>
-										<li><a href="services-detail.php">Services Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Courses</a>
-									<ul>
-										<li><a href="portfolio-2-column.php">Portfolio Two Column</a></li>
-										<li><a href="portfolio-masonry.php">Portfolio Masonry</a></li>
-										<li><a href="portfolio-single.php">Portfolio Single</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Gallery</a>
-									<ul>
-										<li><a href="blog-list.php">Blog List</a></li>
-										<li><a href="blog-single.php">Blog Single</a></li>
-									</ul>
-								</li>
-								<li><a href="contact.php">Contact us</a></li>
+								<?php include('nav-title.php')?>
 							</ul>
 						</div>
 					</nav>
@@ -88,38 +57,7 @@
 
 					<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent1">
 						<ul class="navigation clearfix">
-						<li class="current "><a href="index.php">Home</a>
-									<ul>
-										<li><a href="index.php">Home Page 01</a></li>
-										
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">About Us</a>
-									<ul>
-										<li><a href="about.php">About Us</a></li>
-										<li><a href="testimonial.php">Testimonial</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Admission</a>
-									<ul>
-										<li><a href="services.php">Services</a></li>
-										<li><a href="services-detail.php">Services Detail</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Courses</a>
-									<ul>
-										<li><a href="portfolio-2-column.php">Portfolio Two Column</a></li>
-										<li><a href="portfolio-masonry.php">Portfolio Masonry</a></li>
-										<li><a href="portfolio-single.php">Portfolio Single</a></li>
-									</ul>
-								</li>
-								<li class="dropdown"><a href="#">Gallery</a>
-									<ul>
-										<li><a href="blog-list.php">Blog List</a></li>
-										<li><a href="blog-single.php">Blog Single</a></li>
-									</ul>
-								</li>
-								<li><a href="contact.php">Contact us</a></li>
+						<?php include('nav-title.php')?>
 						</ul>
 					</div>
 				</nav><!-- Main Menu End-->
@@ -149,10 +87,9 @@
 				print, graphic or web designs. The passage</div>
 			<!-- List Style Four -->
 			<ul class="list-style-four">
-				<li><span class="icon flaticon-house"></span> <strong>Collins Street</strong>West Victoria 8007
-					Australia</li>
-				<li><span class="icon flaticon-phone-call"></span> <strong>Call us!</strong>124-3254-325</li>
-				<li><span class="icon flaticon-talk"></span><strong>Mail address</strong>info@domain.com</li>
+				<li><span class="icon flaticon-house"></span> <strong>K.D.G </strong>Sansarpur, Phutahiya, Basti 272001</li>
+				<li><span class="icon flaticon-phone-call"></span> <strong>Call us!</strong>+91-9305831808</li>
+				<li><span class="icon flaticon-talk"></span><strong>Mail address</strong>dms.law@karmadevigroup.com</li>
 			</ul>
 			<div class="lower-box">
 				<!-- Social Icons -->
