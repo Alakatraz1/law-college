@@ -7,9 +7,9 @@
 <li class="dropdown"><a href="#">About Us</a>
     <ul>
         <li><a href="about.php">About Us</a></li>
-        <li><a href="testimonial.php">Vision & Mission</a></li>
-        <li><a href="testimonial.php">Management Team</a></li>
-        <li><a href="testimonial.php">Campus</a></li>
+        <li><a href="about.php#vision">Vision & Mission</a></li>
+        <li><a href="about.php#management">Management Team</a></li>
+        <li><a href="about.php">Campus</a></li>
         <li><a href="testimonial.php">Testimonial</a></li>
     </ul>
 </li>

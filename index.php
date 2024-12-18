@@ -559,11 +559,11 @@
 					<div class="team-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="image">
-								<a href="#"><img src="images/resource/team-1.jpg" alt="" /></a>
+								<a href="#"><img src="assets/images/management/chairman.webp" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h3><a href="#">Jonson Leo</a></h3>
-								<div class="designation">Civil Lawyer</div>
+								<h3><a href="#">Mr. Om Narayan Singh</a></h3>
+								<div class="designation">Chairman</div>
 								<div class="overlay-box">
 									<div class="overlay-content">
 										<div class="title">Contact info</div>
@@ -583,11 +583,11 @@
 					<div class="team-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
 							<div class="image">
-								<a href="#"><img src="images/resource/team-2.jpg" alt="" /></a>
+								<a href="#"><img src="assets/images/management/manager.webp" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h3><a href="#">Malina Leo</a></h3>
-								<div class="designation">Terror Lawyer</div>
+								<h3><a href="#">Mrs. Neeta Singh</a></h3>
+								<div class="designation">Manager</div>
 								<div class="overlay-box">
 									<div class="overlay-content">
 										<div class="title">Contact info</div>
@@ -607,11 +607,11 @@
 					<div class="team-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
 							<div class="image">
-								<a href="#"><img src="images/resource/team-3.jpg" alt="" /></a>
+								<a href="#"><img src="assets/images/management/ceo.webp" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h3><a href="#">Neobir Fro</a></h3>
-								<div class="designation">Civil Lawyer</div>
+								<h3><a href="#">Mrs. Anshu Singh Gautam</a></h3>
+								<div class="designation">CEO</div>
 								<div class="overlay-box">
 									<div class="overlay-content">
 										<div class="title">Contact info</div>
@@ -631,11 +631,12 @@
 					<div class="team-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
 							<div class="image">
-								<a href="#"><img src="images/resource/team-4.jpg" alt="" /></a>
+								<a href="#"><img src="assets/images/management/cio.webp" alt="" /></a>
 							</div>
 							<div class="lower-content">
-								<h3><a href="#">Neobir Fro</a></h3>
-								<div class="designation">Criminal Lawyer</div>
+								<h3><a href="#">Mr. Yajuvendra Vikram Singh
+								CIO</a></h3>
+								<div class="designation">CIO</div>
 								<div class="overlay-box">
 									<div class="overlay-content">
 										<div class="title">Contact info</div>
@@ -657,235 +658,7 @@
 		</section>
 		<!-- End Team Section -->
 
-		<!-- Portfolio Section -->
-		<section class="portfolio-section">
-			<div class="container">
-				<!-- Sec Title -->
-				<div class="section-title centered">
-					<div class="title">Portfolio</div>
-					<h3>Check our portfolio which is built <br> with our <span>experience</span></h3>
-				</div>
-			</div>
-
-			<!-- Outer Container -->
-			<div class="outer-container">
-				<div class="portfolio-carousel owl-carousel owl-theme">
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/1.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Mental Tourcher</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/1.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/2.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Personal Law</div>
-											<h3>Domestic Violence</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/2.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/3.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Marriage & Divorce</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/3.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/4.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Mental Tourcher</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/4.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/5.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Personal Law</div>
-											<h3>Physical Violence</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/5.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/1.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Mental Tourcher</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/1.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/2.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Personal Law</div>
-											<h3>Domestic Violence</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/2.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/3.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Marriage & Divorce</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/3.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/4.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Human Rights</div>
-											<h3>Mental Tourcher</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/4.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Portfolio Block -->
-					<div class="portfolio-block">
-						<div class="inner-box">
-							<div class="image">
-								<img src="images/gallery/5.jpg" alt="" />
-								<div class="overlay-box">
-									<div class="overlay-inner">
-										<div class="content">
-											<div class="title">Personal Law</div>
-											<h3>Physical Violence</h3>
-										</div>
-									</div>
-								</div>
-								<div class="overlay-link">
-									<a href="images/gallery/5.jpg" data-fancybox="gallery-1" data-caption=""
-										class="plus flaticon-plus"></a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-
-		</section>
-		<!-- End Portfolio Section -->
+		
 
 		<!-- Form Section -->
 		<section class="form-section" style="background-image: url(images/background/2.jpg)">
@@ -940,11 +713,11 @@
 								</div>
 
 								<div class="form-group col-lg-4 col-md-6 col-sm-12">
-									<input type="text" name="phone" value="" placeholder="Phone Number.." required>
+									<input type="text" name="tel" value="" placeholder="Phone Number.." required>
 								</div>
 
 								<div class="form-group col-lg-4 col-md-12 col-sm-12">
-									<input type="text" name="email" value="" placeholder="Email Address.." required>
+									<input type="email" name="email" value="" placeholder="Email Address.." required>
 								</div>
 
 								<div class="form-group col-lg-12 col-md-12 col-sm-12">
@@ -1053,6 +826,140 @@
 			</div>
 		</section>
 		<!-- End News Section -->
+
+		<!-- Portfolio Section -->
+		<section class="portfolio-section">
+			<div class="container">
+				<!-- Sec Title -->
+				<div class="section-title centered">
+					<div class="title">K.D.G Institution</div>
+					<h3>Under The Roof Of <span>Karma Devi Group</span></h3>
+				</div>
+			</div>
+			<style>
+				#partner .image img{
+					max-height: 280px;
+
+				}
+
+			</style>
+
+			<!-- Outer Container -->
+			<div class="outer-container" id="partner">
+				<div class="portfolio-carousel owl-carousel owl-theme">
+
+					<!-- Portfolio Block -->
+					<div class="portfolio-block">
+						<div class="inner-box">
+							<div class="image">
+								<img src="assets/images/partner/1.webp" alt="" />
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<div class="title">Human Rights</div>
+											<h3>Mental Tourcher</h3>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-link">
+									<a href="assets/images/partner/1.webp" data-fancybox="gallery-1" data-caption=""
+										class="plus flaticon-plus"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Portfolio Block -->
+					<div class="portfolio-block">
+						<div class="inner-box">
+							<div class="image">
+								<img src="assets/images/partner/2.webp" alt="" />
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<div class="title">Personal Law</div>
+											<h3>Domestic Violence</h3>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-link">
+									<a href="assets/images/partner/2.webp" data-fancybox="gallery-1" data-caption=""
+										class="plus flaticon-plus"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Portfolio Block -->
+					<div class="portfolio-block">
+						<div class="inner-box">
+							<div class="image">
+								<img src="assets/images/partner/3.webp" alt="" />
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<div class="title">Human Rights</div>
+											<h3>Marriage & Divorce</h3>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-link">
+									<a href="assets/images/partner/3.webp" data-fancybox="gallery-1" data-caption=""
+										class="plus flaticon-plus"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Portfolio Block -->
+					<div class="portfolio-block">
+						<div class="inner-box">
+							<div class="image">
+								<img src="assets/images/partner/4.webp" alt="" />
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<div class="title">Human Rights</div>
+											<h3>Mental Tourcher</h3>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-link">
+									<a href="assets/images/partner/4.webp" data-fancybox="gallery-1" data-caption=""
+										class="plus flaticon-plus"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<!-- Portfolio Block -->
+					<div class="portfolio-block">
+						<div class="inner-box">
+							<div class="image">
+								<img src="assets/images/partner/5.webp" alt="" />
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<div class="title">Personal Law</div>
+											<h3>Physical Violence</h3>
+										</div>
+									</div>
+								</div>
+								<div class="overlay-link">
+									<a href="assets/images/partner/5.webp" data-fancybox="gallery-1" data-caption=""
+										class="plus flaticon-plus"></a>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					
+
+				</div>
+			</div>
+
+		</section>
+		<!-- End Portfolio Section -->
 
 		<!-- Subscribe Section -->
 		<section class="subscribe-section">
